@@ -1,1 +1,0 @@
-{ "printWidth": 100, "Bracket Line": true, "plugins": ["prettier-plugin-tailwindcss"] }
